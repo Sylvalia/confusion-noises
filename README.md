@@ -1,2 +1,3 @@
 # confusion-noises
 Trying stuff out...
+Just a random trying to learn programming, haha!
